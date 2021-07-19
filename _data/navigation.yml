@@ -1,0 +1,7 @@
+main:
+  - title: "Games"
+    url: /games/
+  - title: "Posts"
+    url: /posts/
+  - title: "Tags"
+    url: /tags/

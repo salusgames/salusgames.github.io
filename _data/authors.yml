@@ -1,0 +1,11 @@
+Salus Games:
+  name        : "Salus Games"
+  bio         : "Game dev based in Cornwall, UK"
+  avatar      : "/assets/images/salus-games-logo.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:support@salusgames.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/salusgames"
