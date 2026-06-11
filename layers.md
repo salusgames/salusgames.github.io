@@ -33,11 +33,11 @@ If you love puzzle games that make you think differently, Layers delivers a fres
 
 ### What Players Say
 
-> "A really inventive puzzle mechanic. The dual-layer concept is unlike anything I've played before."
-> — Steam Player Review
+> "nice 2D Plattformer Puzzle Idea with Black & White. Good for Achievement Hunters & Indie Puzzle Fans."
+> — S.T.A.R.S Leon S.K., Steam Review (69 people found this helpful)
 
-> "Challenging but fair. The level editor adds tons of replay value."
-> — Steam Player Review
+> "alright. i guess this is something i havent seen before."
+> — GigiCuspis, Steam Review
 
 ### More from Salus Games
 

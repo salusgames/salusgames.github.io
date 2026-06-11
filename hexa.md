@@ -33,11 +33,14 @@ Whether you're a seasoned puzzle fan or just looking for a quick brain teaser, H
 
 ### What Players Say
 
-> "A really clever puzzle concept that keeps pulling you back for one more level."
-> — Steam Player Review
+> "Simple but engaging little puzzle game. Would recommend to any puzzle game players."
+> — Alistair, Steam Review
 
-> "Simple visuals but surprisingly deep mechanics. Great value for the price."
-> — Steam Player Review
+> "Short but fun minimalist puzzler. Also has random levels and workshop support. Runs great on Linux."
+> — Belisama, Steam Review
+
+> "10 out of 10 game. Worth the money. Has Workshop support, goes up there with those old mirror game things and Portal 2."
+> — Siavosh, Steam Review
 
 *Hexa is rated 83% positive from 18 Steam reviews.*
 
