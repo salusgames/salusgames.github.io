@@ -7,6 +7,8 @@ comments: true
 
 While working on my new game [Hexa](https://store.steampowered.com/app/981620/Hexa/) I came to the point where I needed to implement the Steam Workshop. I started to go about it the same way I did with [Layers](http://store.steampowered.com/app/661330/Layers/) by googling code and hacking at it until it worked and fit my need. I shouldn't need to explain why this is a bad idea.
 
+> **Enjoying this tutorial?** Check out [Hexa on Steam](https://store.steampowered.com/app/981620/Hexa/) — a minimalist hexagonal puzzle game with 33+ levels and unlimited random puzzles. Or grab the [Salus Games Collection](https://store.steampowered.com/bundle/9559/Salus_Games_Collection/) bundle and save 10%.
+
 In the end I thought I would bite the bullet and get my head around how the Steam API worked and create a simple class that I can reuse in my games.
 
 This uses the Steamworks.NET package which you will need to add to your Unity project.

@@ -6,6 +6,9 @@ title: Salus Games
 # Your name to show in the footer
 author: Salus Games
 
+# Site description for meta tags
+description: "Salus Games - Independent puzzle game developer based in Cornwall, UK. Creators of Hexa and Layers, available on Steam."
+
 # Colours
 navbar-col: "#262a2e"
 navbar-text-col: "#e4e6eb"

@@ -7,6 +7,8 @@ comments: true
 
 While developing [Hexa](https://store.steampowered.com/app/981620/Hexa/) for the Steam store I always thought that it would work well as a mobile game. It was simple in controls and could easily be picked and played for a few minutes at a time.
 
+> **Want to try Hexa?** [Get it on Steam for $1.99](https://store.steampowered.com/app/981620/Hexa/) — a minimalist puzzle game with unique hex-based mechanics and unlimited replayability.
+
 I started to convert the game to work on mobile devices and quickly came upon a small problem. The levels were too big to show all the Hex's on the screen at once. The player would load a level and have no idea how far the level would extend past the screen they can currently see so wouldn't know to pan the camera around. This wasn't a problem on the PC as generally with the screen sizes an entire level would be viewable.
 
 ## The Solution
