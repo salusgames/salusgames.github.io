@@ -6,6 +6,9 @@ title: Salus Games
 # Your name to show in the footer
 author: Salus Games
 
+# Site description for meta tags and search engines
+description: Salus Games is an independent game studio based in Cornwall, UK. Puzzle games including Hexa and Layers — available on Steam.
+
 # Colours
 navbar-col: "#262a2e"
 navbar-text-col: "#e4e6eb"
@@ -16,7 +19,7 @@ link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#262a2e"
 footer-text-col: "#e4e6eb"
-footer-link-col: "#404040"
+footer-link-col: "#e4e6eb"
 footer-hover-col: "#0085A1"
 
 # Analytics
@@ -43,5 +46,7 @@ social-network-links:
   email: "support@salusgames.com"
   github: salusgames
   twitter: salusgames
+  steam: salusgames
+  rss: true
 
 permalink: /:year-:month-:day-:title/

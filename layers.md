@@ -1,21 +1,38 @@
 ﻿---
 layout: page
 title: Layers
-subtitle: A puzzle game with a unique concept
+subtitle: A puzzle platformer with a unique twist
+description: Layers is a puzzle platformer by Salus Games where you switch objects between White and Black layers to solve complex puzzles and guide all characters to the exit. Available on Steam.
+image: /images/layers/screenshot1.jpg
 ---
 
 <div id="slider">
 <figure>
-<img src="/images/layers/screenshot1.jpg" alt>
-<img src="/images/layers/screenshot2.jpg" alt>
-<img src="/images/layers/screenshot3.jpg" alt>
-<img src="/images/layers/screenshot4.jpg" alt>
-<img src="/images/layers/screenshot5.jpg" alt>
+<img src="/images/layers/screenshot1.jpg" alt="Layers puzzle platformer - white and black layer gameplay">
+<img src="/images/layers/screenshot2.jpg" alt="Layers puzzle platformer - switching objects between layers">
+<img src="/images/layers/screenshot3.jpg" alt="Layers puzzle platformer - guiding characters to exit">
+<img src="/images/layers/screenshot4.jpg" alt="Layers puzzle platformer - trap avoidance">
+<img src="/images/layers/screenshot5.jpg" alt="Layers puzzle platformer - complex puzzle design">
 </figure>
 </div>
 
-Layers is an exciting puzzle platformer that offers a unique twist on the genre. As the player, your goal is to complete each level by interacting with the environment and utilizing objects in both the White and Black Layer. With the ability to switch objects from one layer to another, you must solve complex puzzles to safely guide all playable characters to the exit door. However, beware of traps! If any character dies, the game is over. With engaging gameplay and challenging levels, Layers is sure to keep you entertained for hours!
+**Layers** is a unique puzzle platformer that offers a twist on the genre. Your goal is to complete each level by interacting with the environment and utilizing objects in both the White and Black Layer. Use your ability to switch objects from one layer to another to solve complex puzzles and safely guide all playable characters to the exit door. Beware of traps — if any character dies, the game is over!
+
+## Features
+
+- **Unique dual-layer mechanic** — switch objects between White and Black layers
+- **Carefully planned puzzles** that challenge your logic and planning skills
+- **Multiple playable characters** — get them all to the exit to complete each level
+- **Trap mechanics** — one mistake can mean game over, adding tension to every move
+- **Level editor** (Legacy branch) — create your own puzzles
+- **Steam Workshop support** (Legacy branch) — share and play community levels
+- **Steam Achievements** (10 total)
+- **Available on** Windows, Mac, and Linux
 
 <div style="text-align:center">
-<iframe src="https://store.steampowered.com/widget/661330/?t=Layers%20is%20an%20exciting%20puzzle%20platformer%20that%20offers%20a%20unique%20twist%20on%20the%20genre.%20As%20the%20player%2C%20your%20goal%20is%20to%20complete%20each%20level%20by%20interacting%20with%20the%20environment%20and%20utilizing%20objects%20in%20both%20the%20White%20and%20Black%20Layer.%20With%20the%20ability%20to%20switch%20objects%20from%20one%20layer%20to%20another%2C%20you%20must%20solve%20complex%20puzzles%20to%20safely%20guide%20all%20playable%20characters%20to%20the%20exit%20door." frameborder="0" width="646" height="190"></iframe>
+<iframe src="https://store.steampowered.com/widget/661330/" frameborder="0" width="646" height="190"></iframe>
 </div>
+
+## More from Salus Games
+
+Love puzzle games? Check out **[Hexa]({% link hexa.md %})** — a minimalist logic puzzle game with hex-based mechanics, 33 handcrafted levels, and infinite procedurally generated puzzles.
