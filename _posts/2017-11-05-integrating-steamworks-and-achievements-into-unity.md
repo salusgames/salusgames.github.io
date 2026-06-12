@@ -7,6 +7,8 @@ comments: true
 
 I've just added achievements to my game [Layers](http://store.steampowered.com/app/661330/Layers/) and thought I would write a quick guide on how I did it as I haven't posted anything in awhile.
 
+> **Play Layers on Steam:** [Layers](http://store.steampowered.com/app/661330/Layers/) is a unique puzzle platformer where you switch objects between White and Black layers to solve complex puzzles. [Get it on Steam](http://store.steampowered.com/app/661330/Layers/) for $0.99.
+
 ## Adding the Steamworks package
 
 1. Go to https://github.com/rlabrecque/Steamworks.NET/releases and download the latest release,  make sure you download the .unitypackage. You will then need to import this into your Unity project.

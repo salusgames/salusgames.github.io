@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: About Salus Games — an independent game studio based in Cornwall, UK. Creator of puzzle games Hexa and Layers on Steam.
 ---
 
 I am a passionate creator who loves to build unique and captivating gaming experiences for players around the world.
@@ -12,3 +13,8 @@ As a solo developer, I value my creative freedom and the ability to take risks i
 I am dedicated to staying on the cutting edge of the industry and using the latest technology to create unforgettable gaming experiences. Above all, I am driven by my love for gaming and the joy it brings to players all over the world.
 
 Thank you for joining me on this journey, and I can't wait to share my latest creations with you.
+
+## Our Games
+
+- **[Hexa]({% link hexa.md %})** — A minimalist logic puzzle game with hex-based mechanics, 33 handcrafted levels, and infinite procedurally generated puzzles. Available on [Steam](https://store.steampowered.com/app/981620/).
+- **[Layers]({% link layers.md %})** — A unique puzzle platformer where you switch objects between White and Black layers to solve complex puzzles. Available on [Steam](https://store.steampowered.com/app/661330/).
